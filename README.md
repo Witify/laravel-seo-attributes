@@ -2,7 +2,8 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/Witify/laravel-seo-attributes.svg?style=flat-square)](https://packagist.org/packages/witify/laravel-seo-attributes)
 [![Build Status](https://img.shields.io/travis/Witify/laravel-seo-attributes/master.svg?style=flat-square)](https://travis-ci.org/witify/laravel-seo-attributes)
-[![Quality Score](https://img.shields.io/scrutinizer/g/Witify/laravel-seo-attributes.svg?style=flat-square)](https://scrutinizer-ci.com/g/witify/laravel-seo-attributes)
+[![Maintainability](https://api.codeclimate.com/v1/badges/4c8a395f8d76e65652c5/maintainability)](https://codeclimate.com/github/Witify/laravel-seo-attributes/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/4c8a395f8d76e65652c5/test_coverage)](https://codeclimate.com/github/Witify/laravel-seo-attributes/test_coverage)
 [![Total Downloads](https://img.shields.io/packagist/dt/Witify/laravel-seo-attributes.svg?style=flat-square)](https://packagist.org/packages/witify/laravel-seo-attributes)
 
 ## Installation
