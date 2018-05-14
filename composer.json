@@ -1,6 +1,6 @@
 {
     "name": "witify/laravel-seo-attributes",
-    "description": "Quickly make add SEO attribute to your views in Laravel",
+    "description": "Quickly add SEO attribute to your views in Laravel",
     "keywords": [
         "laravel",
         "SEO"
