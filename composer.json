@@ -1,0 +1,45 @@
+{
+    "name": "witify/laravel-seo-attributes",
+    "description": "Quickly make add SEO attribute to your views in Laravel",
+    "keywords": [
+        "laravel",
+        "SEO"
+    ],
+    "homepage": "https://github.com/Witify/laravel-seo-attributes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "François Lévesque",
+            "email": "francois@witify.io",
+            "homepage": "https://witify.io",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "laravel/framework": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*"
+    },
+    "require-dev": {
+        "larapack/dd": "^1.0",
+        "phpunit/phpunit": "^7.0",
+        "orchestra/testbench": "^3.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Witify\\LaravelSeoAttributes\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Witify\\LaravelSeoAttributesTests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
